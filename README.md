@@ -23,6 +23,7 @@ pip install opencv-python imgbeddings psycopg2-binary
 ```
 
 ## Project Structure
+```
 FacialRecognition/
 │── haarcascade_frontalface_default.xml
 │── oppenheimer-cast.jpg
@@ -30,3 +31,4 @@ FacialRecognition/
 │── stored-faces/
 │── main.py
 │── README.md
+```

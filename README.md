@@ -18,5 +18,15 @@ Ensure you have the following installed:
 
 To install the necessary dependencies, run:
 
-```bash
+```
 pip install opencv-python imgbeddings psycopg2-binary
+```
+
+## Project Structure
+FacialRecognition/
+│── haarcascade_frontalface_default.xml
+│── oppenheimer-cast.jpg
+│── florence_pugh.jpg
+│── stored-faces/
+│── main.py
+│── README.md
